@@ -1,0 +1,46 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "farm AAA",
+      "parcels": [
+        { "name": "parcel 0AAA" },
+        { "name": "parcel 0BBB" },
+        { "name": "parcel 0CCC" },
+        { "name": "parcel 0DDD" },
+        { "name": "parcel 0EEE" }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "farm BBB",
+      "parcels": [
+        { "name": "parcel 1AAA" },
+        { "name": "parcel 1DDD" },
+        { "name": "parcel 1EEE" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "farm CCC",
+      "parcels": [{ "name": "parcel 2AAA" }, { "name": "parcel 2EEE" }]
+    },
+    {
+      "id": 3,
+      "name": "farm DDD",
+      "parcels": [
+        { "name": "parcel 3AAA" },
+        { "name": "parcel 3BBB" },
+        { "name": "parcel 3CCC" },
+        { "name": "parcel 3DDD" },
+        { "name": "parcel 3EEE" }
+      ]
+    },
+    { "id": 4, "name": "farm EEE", "parcels": [
+      { "name": "parcel 4BBB" },
+      { "name": "parcel 4DDD" },
+      { "name": "parcel 4EEE" }
+    ] },
+    { "id": 5, "name": "farm FFF", "parcels": [] }
+  ]
+}
